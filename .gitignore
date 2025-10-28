@@ -1,0 +1,33 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+assembly_classifier
+*.exe
+*.out
+
+# Assembly output files
+*.s
+*.asm
+
+# Temporary files
+temp_*
+*.tmp
+
+# Build directories
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dataset files (too large for git)
+*.csv
+dataset/
+
+# Mac
+.DS_Store
